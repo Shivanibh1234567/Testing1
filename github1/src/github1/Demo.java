@@ -5,6 +5,8 @@ public class Demo {
 	{
 		System.out.println("my first demo");
 		System.out.println("my second demo");
+		System.out.println("my third demo");
+		
 	}
 	
 
