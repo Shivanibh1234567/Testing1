@@ -8,6 +8,10 @@ public class Demo {
 		System.out.println("my third demo");
 		
 	}
+	public void m1()
+	{
+		System.out.println("m1 method");
+	}
 	
 
 }
